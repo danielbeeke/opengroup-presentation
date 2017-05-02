@@ -20,9 +20,10 @@
     "surveillance.md",
     "snowden.md",
     "brewster-kahle.md",
-  "opengroup.md",
-  "index-2.md",
-  "webrtc-p2p-browser-connections.md",
-  "signaling-with-servers.md",
-  "signaling.svg"
+    "opengroup.md",
+    "index-2.md",
+    "webrtc-p2p-browser-connections.md",
+    "signaling-with-servers.md",
+    "signaling.svg",
+    "opengroup-introduction.md"
 ]

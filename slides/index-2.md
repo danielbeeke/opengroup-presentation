@@ -4,7 +4,7 @@
 
 * WebRTC, P2P browser connections
 * Signaling, what?! Servers?
-* OpenGroup
+* OpenGroup introduction
 * Plugins
 * Testing peers with Karma
 * VueJS as theme layer

@@ -17,6 +17,12 @@
     "the-growth-of-monoliths.md",
     "tim-berners-lee.md",
     "tim-berners-lee-2.md",
+    "mobile-growth.md",
+    {
+        "attr": {
+            "data-background": "resources/internet-growth.png"
+        }
+    },
     "surveillance.md",
     "snowden.md",
     "brewster-kahle.md",
@@ -25,5 +31,6 @@
     "webrtc-p2p-browser-connections.md",
     "signaling-with-servers.md",
     "signaling.svg",
-    "opengroup-introduction.md"
+    "opengroup-introduction.md",
+    "mobile-growth-2.md"
 ]

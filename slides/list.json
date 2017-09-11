@@ -17,12 +17,9 @@
     "dot-com-bubble.md",
     "the-growth-of-monoliths.md",
     "mobile-growth.md",
-    "mobile-growth-2.md",
     {
         "attr": {
-            "data-background": "resources/internet-growth.png",
-            "data-background-size": "contain",
-            "data-background-color": "white"
+            "data-background-iframe": "http://databank.worldbank.org/data/views/reports/ReportWidget.aspx?Report_Name=Internet-Growth&Id=82e1a33e&ti=n&ds=y&dd=n&tb=n&sh=y&dw=y&pr=n&inf=y&zm=y&md=y&navigator=n&theme=darkGrey&bdrClr=rgb(68,68,68)&bdrStyle=solid&bdrWidth=0px&desc=Arial;9px;true;false;rgb(68,68,68);justify&exptypes=Excel,CSV,TabbedTxt"
         }
     },
     "surveillance.md",
